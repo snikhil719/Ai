@@ -8,8 +8,8 @@ color: rgb(252, 252, 252);
   
 }
 .div img{ 
-    width: 200px;
-    height: 200px;
+    width: 700px;
+    height: 700px;
 
 
 }
@@ -18,4 +18,10 @@ h1{color: rgb(226, 162, 43);}
     size: 2000px;
     color: rgb(20, 241, 0);
 background-color: black;
+}
+.link{
+    bottom: 20px;
+    top: 90px;
+    left: 50px;
+    right: 50px;
 }
