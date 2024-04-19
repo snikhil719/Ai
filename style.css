@@ -1,0 +1,14 @@
+body{
+    margin: 23px;
+    padding: 20px;
+    height: 10px;
+background-color: rgba(33, 31, 31, 0.401)
+color: rgb(252, 252, 252);
+
+}
+h1{color: blueviolet;}
+.button{
+    size: 2000px;
+    color: rgb(20, 241, 0);
+background-color: black;
+align-items: center;}
